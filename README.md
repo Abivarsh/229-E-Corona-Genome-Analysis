@@ -1,1 +1,2 @@
 # 229-E-Corona-Genome-Analysis
+This project is a genome analysis of one of the strains of COVID-19(229-E).I cleaned the genome sample to obtain an RNA sequence and I verified the number of base-pairs in the virus. I was able to verify the length of all the 10 proteins(ORF1a, ORF1b, Spike Glycoprotein, Membrane, ORF6, ORF7a, ORF8, ORF10) thus this project has the proof of all the scientific foundlings using Data science concepts.
